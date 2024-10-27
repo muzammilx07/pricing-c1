@@ -15,6 +15,11 @@ module.exports = {
         lightGrayishBlueToggle: "hsl(223, 50%, 87%)",
         grayishBlueText: "hsl(225, 20%, 60%)",
         darkDesaturatedBlue: "hsl(227, 35%, 25%)",
+        // Dark mode colors
+        darkBackground: "hsl(230, 17%, 14%)",
+        darkText: "hsl(228, 34%, 66%)",
+        darkCard: "hsl(228, 28%, 20%)",
+        darkToggle: "hsl(174, 77%, 65%)",
       },
     },
   },
